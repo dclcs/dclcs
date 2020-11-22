@@ -1,5 +1,5 @@
 [###](###) Hi there 👋
-I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/dclcs](https://badges.pufler.dev)
+I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/dclcs)](https://badges.pufler.dev)
 
 - 🔭 I’m currently pursuing a CS Master degree in NLP
 - 🌱 I’m currently learning NLP and Distributed Systems (mainly focusing on Distributed Databases)
