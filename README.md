@@ -1,9 +1,8 @@
 ### Hi there 👋 I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/dclcs)](https://badges.pufler.dev)
 
 - 🔭 I’m currently pursuing a CS Master degree in CV
-- 🌱 I’m currently learning NLP and Distributed Systems (mainly focusing on Distributed Databases)
 - 💬 Ask me about databases, Kubernetes, Linux, backend development, artificial intelligence
-- 🤔 I’m looking for help with Computer Graphics, Game Development
+- 🤔 I’m looking for help with Computer Graphics。。。
 - 😄 I'm intrested in development in many aspects and eager to try new things
 
 <!--
