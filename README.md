@@ -15,21 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 
-[![dclcs's github stats](https://github-readme-stats.vercel.app/api?username=dclcs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dclcs&show_icons=true&include_all_commits=true&theme=material-palenight" alt="dclcs's github stats" />
-
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dclcs&layout=compact&theme=material-palenight" />
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dclcs&repo=TechnicalRecords&theme=material-palenight" />
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dclcs&repo=dclcs.github.io&theme=material-palenight" />
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclcs&layout=compact)](https://github.com/dclcs/github-readme-stats)
