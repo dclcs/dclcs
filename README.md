@@ -39,3 +39,7 @@ Here are some ideas to get you started:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dclcs&repo=dclcs.github.io&theme=material-palenight" />
 </a>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclcs&layout=compact)](https://github.com/dclcs/github-readme-stats)
