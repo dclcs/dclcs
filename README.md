@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dclcs&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dclcs&show_icons=true&include_all_commits=true&theme=material-palenight" alt="dclcs's github stats" />
 
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dclcs&layout=compact&theme=material-palenight" />
