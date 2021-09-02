@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 [![dclcs's github stats](https://github-readme-stats.vercel.app/api?username=dclcs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
@@ -30,11 +30,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dclcs&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/dclcs/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dclcs&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dclcs&repo=dclcs-readme-stats&theme=material-palenight" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+
+<a href="https://github.com/dclcs/dclcs.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dclcs&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dclcs&repo=dclcs.github.io&theme=material-palenight" />
 </a>
