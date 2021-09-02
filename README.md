@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dclcs&layout=compact&theme=material-palenight" />
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dclcs&repo=pipeline&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dclcs&repo=TechnicalRecords&theme=material-palenight" />
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dclcs&repo=dclcs.github.io&theme=material-palenight" />
 
